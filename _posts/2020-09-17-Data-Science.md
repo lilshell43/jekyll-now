@@ -19,3 +19,5 @@ For my analyses, since I don't know anything about the NHL, I looked at the team
 This project was a lot harder than I thought and R is very tricky. I use tableau for data visualization in my current role and it's a drag and drop interface. So doing things such as formatting the reports were difficult for me. What I would do differently is maybe focus on the data more to get a clear understating. There's so many tables/endpoints and for most fields, I didn't know what they meant. My main focus were around 5-7 columns. Another difficult obstacle for me is I still struggle with understanding datasources. When I connected to some endpoints, they had lists, matrixes, etc. nested inside them. I'm not used to this so filtering out what I needed was very challenging. I wanted to do an time series analysis on all the Atlantic Division teams for the last 20 years but this was too difficult for me. My big take away for future projects is to really understand and get a feel for the data. 
 
 • In your blog post, provide a link to your github pages repo
+
+https://github.com/lilshell43/Project1
