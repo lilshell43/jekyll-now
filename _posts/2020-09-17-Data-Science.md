@@ -20,4 +20,4 @@ This project was a lot harder than I thought and R is very tricky. I use tableau
 
 • In your blog post, provide a link to your github pages repo
 
-https://github.com/lilshell43/Project1
+[Project1](https://github.com/lilshell43/Project1)
